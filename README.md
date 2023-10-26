@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# Group 44 Project
 Template project repository for DSCI-100
